@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2025-diverse-cot",
+  "versions": [
+    {
+      "commit": "f1fa7e8e386ca3b7099f48ed73cc1e1dc792cc71",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:52:17.727696+00:00"
+    }
+  ]
+}
